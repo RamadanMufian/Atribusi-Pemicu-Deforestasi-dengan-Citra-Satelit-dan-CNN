@@ -1,0 +1,1 @@
+# Atribusi-Pemicu-Deforestasi-dengan-Citra-Satelit-dan-CNN
